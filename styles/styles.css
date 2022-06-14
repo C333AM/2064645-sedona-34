@@ -83,6 +83,11 @@
     object-fit: contain;
   }
 
+  body {
+    background-color: tomato;
+  }
+  
+
   .images-box {
       background-image: url("../images/main/index-background.jpg");
       background-size: cover;
